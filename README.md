@@ -1,2 +1,2 @@
-Nome: Mónica Gomes
+Nome: Mónica Gomes;
 Curso: Python 1
